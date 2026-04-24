@@ -97,4 +97,4 @@ Follow these steps to run the project:
 * Modify input files or parameters as needed for testing different cases.
 
 ---
-https://naxix6677.github.io/AI_problemSolving_-RA2411026050295-/problem:1-tic-tack-toe/index.html
+https://naxix6677.github.io/AI_problemSolving_-RA2411026050295-RA2411026050278/problem:1-tic-tack-toe/index.html
